@@ -1,4 +1,4 @@
-package com.feng.geode.Client;
+package com.feng.geode.client;
 
 import com.feng.geode.domain.Contact;
 import com.feng.geode.domain.EmployeeData;
