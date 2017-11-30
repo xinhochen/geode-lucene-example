@@ -8,4 +8,4 @@ This project is based on the official Geode lucene demo: https://github.com/apac
 2. Start the client application
 
 # More
-About the commented serailizer of the client, the reason is that this feature will be added in Geode 1.4
+About the commented serializer of the client, the reason is that this feature will be added in Geode 1.4
