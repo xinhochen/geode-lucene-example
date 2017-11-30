@@ -1,5 +1,6 @@
 # geode-lucene-example
 This is an simple example of lucene search on Apache Geode, using embedded locater and server.
+This project is based on the official Geode lucene demo: https://github.com/apache/geode-examples/tree/develop/lucene
 
 # Usage
 1. Start the server application at first
